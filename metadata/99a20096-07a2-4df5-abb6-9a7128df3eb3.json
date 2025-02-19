@@ -1,0 +1,10 @@
+{
+  "example_id": "99a20096-07a2-4df5-abb6-9a7128df3eb3",
+  "text": "ظهر مانافورت في المحكمة مرتدياً بدلة السجن الخضراء، مما يعكس وضعه المأساوي بعد الإدانة.",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/99a20096-07a2-4df5-abb6-9a7128df3eb3.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/99a20096-07a2-4df5-abb6-9a7128df3eb3.pt",
+  "sequence_length": 32,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163447"
+}

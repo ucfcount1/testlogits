@@ -1,0 +1,10 @@
+{
+  "example_id": "1b2a13f4-99f2-45d0-849f-39f175d2b994",
+  "text": "ما هي المقطوعة التي أهداها ياني للشعب السعودي؟",
+  "domain": "الثقافة",
+  "logits_path": "/tmp/logits_output/logits/1b2a13f4-99f2-45d0-849f-39f175d2b994.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/1b2a13f4-99f2-45d0-849f-39f175d2b994.pt",
+  "sequence_length": 17,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163449"
+}

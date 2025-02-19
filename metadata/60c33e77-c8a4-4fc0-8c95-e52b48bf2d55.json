@@ -1,0 +1,10 @@
+{
+  "example_id": "60c33e77-c8a4-4fc0-8c95-e52b48bf2d55",
+  "text": "شهدت الولايات المتحدة تراجعاً في إجمالي الناتج المحلي بنسبة 32.9% خلال الربع الثاني بسبب تدابير العزل المرتبطة بوباء كوفيد-19.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/60c33e77-c8a4-4fc0-8c95-e52b48bf2d55.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/60c33e77-c8a4-4fc0-8c95-e52b48bf2d55.pt",
+  "sequence_length": 46,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163449"
+}

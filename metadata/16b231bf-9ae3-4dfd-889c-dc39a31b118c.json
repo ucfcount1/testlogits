@@ -1,0 +1,10 @@
+{
+  "example_id": "16b231bf-9ae3-4dfd-889c-dc39a31b118c",
+  "text": "هل علق فريق المدعي الخاص روبرت مولر على الحكم؟",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/16b231bf-9ae3-4dfd-889c-dc39a31b118c.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/16b231bf-9ae3-4dfd-889c-dc39a31b118c.pt",
+  "sequence_length": 14,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163446"
+}

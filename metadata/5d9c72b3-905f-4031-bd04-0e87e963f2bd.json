@@ -1,0 +1,10 @@
+{
+  "example_id": "5d9c72b3-905f-4031-bd04-0e87e963f2bd",
+  "text": "كم سنة حكم على بول مانافورت بالسجن؟",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/5d9c72b3-905f-4031-bd04-0e87e963f2bd.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/5d9c72b3-905f-4031-bd04-0e87e963f2bd.pt",
+  "sequence_length": 12,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163445"
+}

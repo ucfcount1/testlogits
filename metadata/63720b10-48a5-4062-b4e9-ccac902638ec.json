@@ -1,0 +1,10 @@
+{
+  "example_id": "63720b10-48a5-4062-b4e9-ccac902638ec",
+  "text": "عقار هوميرا.",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/63720b10-48a5-4062-b4e9-ccac902638ec.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/63720b10-48a5-4062-b4e9-ccac902638ec.pt",
+  "sequence_length": 8,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163455"
+}

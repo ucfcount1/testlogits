@@ -1,0 +1,10 @@
+{
+  "example_id": "d267c87c-c367-4380-a09b-3a9347383893",
+  "text": "كشف التحقيق عن قيام مانافورت بإخفاء أكثر من 55 مليون دولار على مصلحة الضرائب الأمريكية.",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/d267c87c-c367-4380-a09b-3a9347383893.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/d267c87c-c367-4380-a09b-3a9347383893.pt",
+  "sequence_length": 29,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163447"
+}

@@ -1,0 +1,10 @@
+{
+  "example_id": "756ccf4a-e392-4611-be2e-3d7298c67ecd",
+  "text": "ما هي التهم التي أدين بها مانافورت؟",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/756ccf4a-e392-4611-be2e-3d7298c67ecd.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/756ccf4a-e392-4611-be2e-3d7298c67ecd.pt",
+  "sequence_length": 13,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163445"
+}

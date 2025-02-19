@@ -1,0 +1,10 @@
+{
+  "example_id": "e510cab4-841a-49dc-b7a0-60e39811a09b",
+  "text": "حي الوعر محاصر طبياً منذ أكثر من 3 أعوام، وجميع المنظمات الدولية...",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/e510cab4-841a-49dc-b7a0-60e39811a09b.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/e510cab4-841a-49dc-b7a0-60e39811a09b.pt",
+  "sequence_length": 23,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163452"
+}

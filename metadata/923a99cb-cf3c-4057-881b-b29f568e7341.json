@@ -1,0 +1,10 @@
+{
+  "example_id": "923a99cb-cf3c-4057-881b-b29f568e7341",
+  "text": "المدرسين من دخول الحي لمزاولة عملهم التدريسي، والطلاب من الوصول إلى معاهدهم ومدارسهم، مما أدى إلى تعطيل الحياة التعليمية في حي الوعر.",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/923a99cb-cf3c-4057-881b-b29f568e7341.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/923a99cb-cf3c-4057-881b-b29f568e7341.pt",
+  "sequence_length": 45,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163452"
+}

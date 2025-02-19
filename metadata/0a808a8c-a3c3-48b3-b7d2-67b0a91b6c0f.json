@@ -1,0 +1,10 @@
+{
+  "example_id": "0a808a8c-a3c3-48b3-b7d2-67b0a91b6c0f",
+  "text": "ما هو التراجع الذي شهدته الولايات المتحدة في الربع الثاني من العام؟",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/0a808a8c-a3c3-48b3-b7d2-67b0a91b6c0f.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/0a808a8c-a3c3-48b3-b7d2-67b0a91b6c0f.pt",
+  "sequence_length": 17,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163448"
+}

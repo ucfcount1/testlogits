@@ -1,0 +1,10 @@
+{
+  "example_id": "aa24cec9-6f0c-434a-8671-09d937da6abf",
+  "text": "حكم على بول مانافورت بالسجن لمدة 4 سنوات تقريباً.",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/aa24cec9-6f0c-434a-8671-09d937da6abf.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/aa24cec9-6f0c-434a-8671-09d937da6abf.pt",
+  "sequence_length": 17,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163445"
+}

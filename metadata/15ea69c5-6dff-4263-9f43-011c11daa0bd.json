@@ -1,0 +1,10 @@
+{
+  "example_id": "15ea69c5-6dff-4263-9f43-011c11daa0bd",
+  "text": "أظهر التحقيق أن مانافورت أخفى مبالغ طائلة تتجاوز 55 مليون دولار، مما أدى إلى اتهامه بالتهرب الضريبي.",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/15ea69c5-6dff-4263-9f43-011c11daa0bd.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/15ea69c5-6dff-4263-9f43-011c11daa0bd.pt",
+  "sequence_length": 38,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163447"
+}

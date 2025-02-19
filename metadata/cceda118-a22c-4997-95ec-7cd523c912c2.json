@@ -1,0 +1,10 @@
+{
+  "example_id": "cceda118-a22c-4997-95ec-7cd523c912c2",
+  "text": "ارتفاع أسعار الطاقة يثير قلق المسؤولين الأوروبيين الذين يسعون إلى إيجاد حلول مستدامة.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/cceda118-a22c-4997-95ec-7cd523c912c2.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/cceda118-a22c-4997-95ec-7cd523c912c2.pt",
+  "sequence_length": 28,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163445"
+}

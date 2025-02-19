@@ -1,0 +1,10 @@
+{
+  "example_id": "8b3ca401-a679-4942-aa0e-8c16de1233a1",
+  "text": "واحة سيوة، تلك الواحة الساحرة الواقعة في قلب الصحراء الغربية بمصر.",
+  "domain": "السياحة",
+  "logits_path": "/tmp/logits_output/logits/8b3ca401-a679-4942-aa0e-8c16de1233a1.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/8b3ca401-a679-4942-aa0e-8c16de1233a1.pt",
+  "sequence_length": 24,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163500"
+}

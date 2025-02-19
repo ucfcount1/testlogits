@@ -1,0 +1,10 @@
+{
+  "example_id": "d6352a46-044b-4aaf-a5cb-a37e7edbdfa6",
+  "text": "ما الذي يقدمه كتاب كيت ييتس؟",
+  "domain": "الرياضيات",
+  "logits_path": "/tmp/logits_output/logits/d6352a46-044b-4aaf-a5cb-a37e7edbdfa6.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/d6352a46-044b-4aaf-a5cb-a37e7edbdfa6.pt",
+  "sequence_length": 13,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163453"
+}

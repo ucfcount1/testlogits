@@ -1,0 +1,10 @@
+{
+  "example_id": "c1251f08-734f-44db-a64b-c27844b25cc6",
+  "text": "توقعت ديلويت أن يكون للتسوق الإلكتروني دور محوري في تعزيز نمو الإنفاق الاستهلاكي خلال موسم الأعياد المقبل.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/c1251f08-734f-44db-a64b-c27844b25cc6.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/c1251f08-734f-44db-a64b-c27844b25cc6.pt",
+  "sequence_length": 35,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163449"
+}

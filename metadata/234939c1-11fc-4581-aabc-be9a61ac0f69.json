@@ -1,0 +1,10 @@
+{
+  "example_id": "234939c1-11fc-4581-aabc-be9a61ac0f69",
+  "text": "أين سيتم عقد المؤتمر السياحي الدولي الثاني؟",
+  "domain": "السياحة",
+  "logits_path": "/tmp/logits_output/logits/234939c1-11fc-4581-aabc-be9a61ac0f69.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/234939c1-11fc-4581-aabc-be9a61ac0f69.pt",
+  "sequence_length": 13,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163458"
+}

@@ -1,0 +1,10 @@
+{
+  "example_id": "d39b9b51-ef40-45d6-b896-e43fe631e45d",
+  "text": "كلية السياحة والفنادق بجامعة الإسكندرية فرع مطروح.",
+  "domain": "السياحة",
+  "logits_path": "/tmp/logits_output/logits/d39b9b51-ef40-45d6-b896-e43fe631e45d.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/d39b9b51-ef40-45d6-b896-e43fe631e45d.pt",
+  "sequence_length": 20,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163459"
+}

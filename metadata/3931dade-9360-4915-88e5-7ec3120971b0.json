@@ -1,0 +1,10 @@
+{
+  "example_id": "3931dade-9360-4915-88e5-7ec3120971b0",
+  "text": "ما هو العامل الذي سيدعم نمو الإنفاق المتوقع؟",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/3931dade-9360-4915-88e5-7ec3120971b0.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/3931dade-9360-4915-88e5-7ec3120971b0.pt",
+  "sequence_length": 15,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163447"
+}

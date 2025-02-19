@@ -1,0 +1,10 @@
+{
+  "example_id": "0e6e8d49-6328-42d3-9e26-b807647a7508",
+  "text": "من هي المؤسسة التي ستقوم بعقد المؤتمر؟",
+  "domain": "السياحة",
+  "logits_path": "/tmp/logits_output/logits/0e6e8d49-6328-42d3-9e26-b807647a7508.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/0e6e8d49-6328-42d3-9e26-b807647a7508.pt",
+  "sequence_length": 14,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163459"
+}

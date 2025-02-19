@@ -1,0 +1,10 @@
+{
+  "example_id": "aca5ae5a-7fd9-4cfe-b3b6-24b4b1c1b112",
+  "text": "يواجه مانافورت محاكمة أخرى أمام محكمة في واشنطن.",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/aca5ae5a-7fd9-4cfe-b3b6-24b4b1c1b112.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/aca5ae5a-7fd9-4cfe-b3b6-24b4b1c1b112.pt",
+  "sequence_length": 15,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163446"
+}

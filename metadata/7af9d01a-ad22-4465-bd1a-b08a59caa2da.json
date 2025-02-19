@@ -1,0 +1,10 @@
+{
+  "example_id": "7af9d01a-ad22-4465-bd1a-b08a59caa2da",
+  "text": "شاهد.. الموسيقار العالمي \"ياني\" يحيي حفلاً في \"شتاء طنطورة\"",
+  "domain": "الثقافة",
+  "logits_path": "/tmp/logits_output/logits/7af9d01a-ad22-4465-bd1a-b08a59caa2da.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/7af9d01a-ad22-4465-bd1a-b08a59caa2da.pt",
+  "sequence_length": 27,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163450"
+}

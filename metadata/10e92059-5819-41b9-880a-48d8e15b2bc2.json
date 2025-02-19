@@ -1,0 +1,10 @@
+{
+  "example_id": "10e92059-5819-41b9-880a-48d8e15b2bc2",
+  "text": "يُعد عقار هوميرا من أكثر الأدوية رواجاً على مستوى العالم.",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/10e92059-5819-41b9-880a-48d8e15b2bc2.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/10e92059-5819-41b9-880a-48d8e15b2bc2.pt",
+  "sequence_length": 21,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163456"
+}

@@ -1,0 +1,10 @@
+{
+  "example_id": "681306d4-78ea-4f46-98ff-5a937190e45e",
+  "text": "ما هي بعض الأنشطة المخطط لها خلال المؤتمر؟",
+  "domain": "السياحة",
+  "logits_path": "/tmp/logits_output/logits/681306d4-78ea-4f46-98ff-5a937190e45e.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/681306d4-78ea-4f46-98ff-5a937190e45e.pt",
+  "sequence_length": 15,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163459"
+}

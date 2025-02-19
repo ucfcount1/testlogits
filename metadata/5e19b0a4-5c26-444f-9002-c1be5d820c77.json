@@ -1,0 +1,10 @@
+{
+  "example_id": "5e19b0a4-5c26-444f-9002-c1be5d820c77",
+  "text": "كيف تساهم المملكة في تعزيز التعاون بين الدول النامية والدول الشريكة؟",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/5e19b0a4-5c26-444f-9002-c1be5d820c77.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/5e19b0a4-5c26-444f-9002-c1be5d820c77.pt",
+  "sequence_length": 21,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163457"
+}

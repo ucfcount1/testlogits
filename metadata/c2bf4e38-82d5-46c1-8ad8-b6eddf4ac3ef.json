@@ -1,0 +1,10 @@
+{
+  "example_id": "c2bf4e38-82d5-46c1-8ad8-b6eddf4ac3ef",
+  "text": "أليكس أزار.",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/c2bf4e38-82d5-46c1-8ad8-b6eddf4ac3ef.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/c2bf4e38-82d5-46c1-8ad8-b6eddf4ac3ef.pt",
+  "sequence_length": 7,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163455"
+}

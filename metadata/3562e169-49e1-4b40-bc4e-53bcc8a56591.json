@@ -1,0 +1,10 @@
+{
+  "example_id": "3562e169-49e1-4b40-bc4e-53bcc8a56591",
+  "text": "ما هو الهدف الرئيسي للمملكة العربية السعودية خلال رئاستها لمجموعة العشرين؟",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/3562e169-49e1-4b40-bc4e-53bcc8a56591.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/3562e169-49e1-4b40-bc4e-53bcc8a56591.pt",
+  "sequence_length": 19,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163457"
+}

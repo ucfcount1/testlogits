@@ -1,0 +1,10 @@
+{
+  "example_id": "20f35faf-e94a-4208-af7d-c6efa826e79b",
+  "text": "ما هو المجال الذي تُطبق فيه الرياضيات بشكل مستمر؟",
+  "domain": "الرياضيات",
+  "logits_path": "/tmp/logits_output/logits/20f35faf-e94a-4208-af7d-c6efa826e79b.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/20f35faf-e94a-4208-af7d-c6efa826e79b.pt",
+  "sequence_length": 16,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163453"
+}

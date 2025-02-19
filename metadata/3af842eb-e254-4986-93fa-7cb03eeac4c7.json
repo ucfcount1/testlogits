@@ -1,0 +1,10 @@
+{
+  "example_id": "3af842eb-e254-4986-93fa-7cb03eeac4c7",
+  "text": "كم يبلغ عدد المعتقلين الذين تم المطالبة بالإفراج عنهم في حي الوعر؟",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/3af842eb-e254-4986-93fa-7cb03eeac4c7.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/3af842eb-e254-4986-93fa-7cb03eeac4c7.pt",
+  "sequence_length": 22,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163451"
+}

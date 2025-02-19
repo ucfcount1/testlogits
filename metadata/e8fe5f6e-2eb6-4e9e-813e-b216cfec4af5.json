@@ -1,0 +1,10 @@
+{
+  "example_id": "e8fe5f6e-2eb6-4e9e-813e-b216cfec4af5",
+  "text": "تم الإعلان عن عقد المؤتمر السياحي الدولي الثاني في واحة سيوة في مارس المقبل، بعنوان 'التطوير المتوازن لواحة سيوة على خريطة السياحة الدولية'.",
+  "domain": "السياحة",
+  "logits_path": "/tmp/logits_output/logits/e8fe5f6e-2eb6-4e9e-813e-b216cfec4af5.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/e8fe5f6e-2eb6-4e9e-813e-b216cfec4af5.pt",
+  "sequence_length": 43,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163459"
+}

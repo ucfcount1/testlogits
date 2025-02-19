@@ -1,0 +1,10 @@
+{
+  "example_id": "5ee171ba-9b61-4ae3-8a80-55aec4a1886b",
+  "text": "رياضيات الحياة والموت قصة العالم من حولنا، ومن شأن الحكمة التي تشتمل عليها أن تشكل الفرق بين النجاح والكارثة. نحن نمارس الرياضيات طوال الوقت، من الطريقة التي نتواصل بها مع بعضنا بعضا إلى الطريقة التي نسافر بها، ومن كيفية عملنا إلى كيفية استرخائنا. وكثير منا يدركون ذلك.",
+  "domain": "الرياضيات",
+  "logits_path": "/tmp/logits_output/logits/5ee171ba-9b61-4ae3-8a80-55aec4a1886b.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/5ee171ba-9b61-4ae3-8a80-55aec4a1886b.pt",
+  "sequence_length": 88,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163453"
+}

@@ -1,0 +1,10 @@
+{
+  "example_id": "737138ac-5694-4692-bd50-0ad079981461",
+  "text": "أكد السفير عبدالله المعلمي على التزام المملكة بتعزيز التعاون الدولي ودفع جهود التنمية المستدامة خلال رئاستها لمجموعة العشرين.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/737138ac-5694-4692-bd50-0ad079981461.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/737138ac-5694-4692-bd50-0ad079981461.pt",
+  "sequence_length": 39,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163458"
+}

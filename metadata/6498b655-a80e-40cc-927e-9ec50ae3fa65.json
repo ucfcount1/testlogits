@@ -1,0 +1,10 @@
+{
+  "example_id": "6498b655-a80e-40cc-927e-9ec50ae3fa65",
+  "text": "انخفاض وتيرة رفع الأسعار",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/6498b655-a80e-40cc-927e-9ec50ae3fa65.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/6498b655-a80e-40cc-927e-9ec50ae3fa65.pt",
+  "sequence_length": 8,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163457"
+}

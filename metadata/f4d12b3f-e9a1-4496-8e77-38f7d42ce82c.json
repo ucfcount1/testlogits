@@ -1,0 +1,10 @@
+{
+  "example_id": "f4d12b3f-e9a1-4496-8e77-38f7d42ce82c",
+  "text": "قطع الكهرباء، منع دخول سيارات الخبز، إغلاق الطرق الغذائية، ومنع الحالات الإنسانية الطبية من الوصول إلى المشافي.",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/f4d12b3f-e9a1-4496-8e77-38f7d42ce82c.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/f4d12b3f-e9a1-4496-8e77-38f7d42ce82c.pt",
+  "sequence_length": 34,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163452"
+}

@@ -1,0 +1,10 @@
+{
+  "example_id": "e3675697-fd16-4056-ad7f-c6fd33855273",
+  "text": "رداً على تعليق المفاوضات، فرض نظام الأسد إجراءات صارمة على حي الوعر، بما في ذلك قطع الكهرباء والخدمات الأساسية. كما منع الموظفين والمدرسين والطلاب من الدخول أو الخروج، مما زاد من معاناة المدنيين المحاصرين.",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/e3675697-fd16-4056-ad7f-c6fd33855273.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/e3675697-fd16-4056-ad7f-c6fd33855273.pt",
+  "sequence_length": 69,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163452"
+}

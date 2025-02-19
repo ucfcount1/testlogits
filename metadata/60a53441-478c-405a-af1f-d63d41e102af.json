@@ -1,0 +1,10 @@
+{
+  "example_id": "60a53441-478c-405a-af1f-d63d41e102af",
+  "text": "الاستجابة لوباء كوفيد-19 وتدابير العزل التي فرضت في مارس وأبريل",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/60a53441-478c-405a-af1f-d63d41e102af.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/60a53441-478c-405a-af1f-d63d41e102af.pt",
+  "sequence_length": 27,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163448"
+}

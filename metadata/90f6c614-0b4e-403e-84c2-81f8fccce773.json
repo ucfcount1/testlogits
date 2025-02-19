@@ -1,0 +1,10 @@
+{
+  "example_id": "90f6c614-0b4e-403e-84c2-81f8fccce773",
+  "text": "تُطبق الرياضيات في جميع جوانب حياتنا، من التواصل والسفر إلى العمل والاسترخاء.",
+  "domain": "الرياضيات",
+  "logits_path": "/tmp/logits_output/logits/90f6c614-0b4e-403e-84c2-81f8fccce773.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/90f6c614-0b4e-403e-84c2-81f8fccce773.pt",
+  "sequence_length": 26,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163453"
+}

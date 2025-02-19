@@ -1,0 +1,10 @@
+{
+  "example_id": "4a78b23d-12ec-446e-a4af-e5991b997e95",
+  "text": "أطرب ياني الجمهور بمقطوعاته الساحرة، حيث تفاعل الحضور بحماس مع كل نغمة.",
+  "domain": "الثقافة",
+  "logits_path": "/tmp/logits_output/logits/4a78b23d-12ec-446e-a4af-e5991b997e95.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/4a78b23d-12ec-446e-a4af-e5991b997e95.pt",
+  "sequence_length": 32,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163451"
+}

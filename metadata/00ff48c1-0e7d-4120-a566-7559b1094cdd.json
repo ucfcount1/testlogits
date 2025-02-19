@@ -1,0 +1,10 @@
+{
+  "example_id": "00ff48c1-0e7d-4120-a566-7559b1094cdd",
+  "text": "يهدف المؤتمر إلى ",
+  "domain": "السياحة",
+  "logits_path": "/tmp/logits_output/logits/00ff48c1-0e7d-4120-a566-7559b1094cdd.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/00ff48c1-0e7d-4120-a566-7559b1094cdd.pt",
+  "sequence_length": 8,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163500"
+}

@@ -1,0 +1,10 @@
+{
+  "example_id": "abb38990-56f3-4873-89b4-bcf5ddfaf071",
+  "text": "يشعر المستهلكون في بعض الدول بتأثيرات ارتفاع أسعار الغاز الطبيعي.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/abb38990-56f3-4873-89b4-bcf5ddfaf071.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/abb38990-56f3-4873-89b4-bcf5ddfaf071.pt",
+  "sequence_length": 21,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163444"
+}

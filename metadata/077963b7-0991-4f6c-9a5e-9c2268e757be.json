@@ -1,0 +1,10 @@
+{
+  "example_id": "077963b7-0991-4f6c-9a5e-9c2268e757be",
+  "text": "عقار هوميرا هو الأكثر مبيعاً في العالم",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/077963b7-0991-4f6c-9a5e-9c2268e757be.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/077963b7-0991-4f6c-9a5e-9c2268e757be.pt",
+  "sequence_length": 15,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163456"
+}

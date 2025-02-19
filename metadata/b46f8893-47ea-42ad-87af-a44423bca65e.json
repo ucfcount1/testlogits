@@ -1,0 +1,10 @@
+{
+  "example_id": "b46f8893-47ea-42ad-87af-a44423bca65e",
+  "text": "تُعد الرياضيات لغة الكون، فهي تُفسر لنا أسرار الطبيعة وتُسير شؤون حياتنا.",
+  "domain": "الرياضيات",
+  "logits_path": "/tmp/logits_output/logits/b46f8893-47ea-42ad-87af-a44423bca65e.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/b46f8893-47ea-42ad-87af-a44423bca65e.pt",
+  "sequence_length": 33,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163454"
+}

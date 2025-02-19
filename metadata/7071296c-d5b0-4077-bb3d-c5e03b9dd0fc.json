@@ -1,0 +1,10 @@
+{
+  "example_id": "7071296c-d5b0-4077-bb3d-c5e03b9dd0fc",
+  "text": "أدت الفنانة لورين جيلينكوف يتش مع الفرقة الموسيقية معزوفة نايتنجيل بتناغم وتمكن عالٍ.",
+  "domain": "الثقافة",
+  "logits_path": "/tmp/logits_output/logits/7071296c-d5b0-4077-bb3d-c5e03b9dd0fc.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/7071296c-d5b0-4077-bb3d-c5e03b9dd0fc.pt",
+  "sequence_length": 37,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163450"
+}

@@ -1,0 +1,10 @@
+{
+  "example_id": "bd1190e6-2bbd-4a5b-af1d-12573d2f199f",
+  "text": "خلال المؤتمر، سيتم افتتاح ",
+  "domain": "السياحة",
+  "logits_path": "/tmp/logits_output/logits/bd1190e6-2bbd-4a5b-af1d-12573d2f199f.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/bd1190e6-2bbd-4a5b-af1d-12573d2f199f.pt",
+  "sequence_length": 10,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163502"
+}

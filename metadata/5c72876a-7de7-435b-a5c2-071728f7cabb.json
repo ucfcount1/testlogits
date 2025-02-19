@@ -1,0 +1,10 @@
+{
+  "example_id": "5c72876a-7de7-435b-a5c2-071728f7cabb",
+  "text": "وصاحب صوت الفنانة \"لورين جيلينكوف يتش\" بتناغم تام أداء الفرقة الموسيقية أثناء عزفها مقطوعة \"Nightingale\".",
+  "domain": "الثقافة",
+  "logits_path": "/tmp/logits_output/logits/5c72876a-7de7-435b-a5c2-071728f7cabb.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/5c72876a-7de7-435b-a5c2-071728f7cabb.pt",
+  "sequence_length": 40,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163451"
+}

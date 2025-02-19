@@ -1,0 +1,10 @@
+{
+  "example_id": "24419b3e-8174-4560-9743-35af01e34783",
+  "text": "تُستخدم الرياضيات في كل مكان، من بناء الجسور والهياكل المعمارية إلى تصميم الدوائر الإلكترونية والبرمجيات الحاسوبية.",
+  "domain": "الرياضيات",
+  "logits_path": "/tmp/logits_output/logits/24419b3e-8174-4560-9743-35af01e34783.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/24419b3e-8174-4560-9743-35af01e34783.pt",
+  "sequence_length": 35,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163454"
+}

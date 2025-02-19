@@ -1,0 +1,10 @@
+{
+  "example_id": "b49d5f26-189a-41aa-8c16-f7deafe8227d",
+  "text": "يمكن أن يؤدي سوء فهم الرياضيات إلى عواقب وخيمة مثل الإعاقة بسبب تحليل الجينات الخاطئ، والإفلاس بسبب الخوارزميات المعيبة، وحتى الوفاة بسبب أخطاء في البرمجيات.",
+  "domain": "الرياضيات",
+  "logits_path": "/tmp/logits_output/logits/b49d5f26-189a-41aa-8c16-f7deafe8227d.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/b49d5f26-189a-41aa-8c16-f7deafe8227d.pt",
+  "sequence_length": 51,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163453"
+}

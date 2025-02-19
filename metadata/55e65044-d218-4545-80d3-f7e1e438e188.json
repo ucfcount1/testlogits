@@ -1,0 +1,10 @@
+{
+  "example_id": "55e65044-d218-4545-80d3-f7e1e438e188",
+  "text": "واستشهد القاضي بأحكام سابقة 'خفيفة بشكل ملفت' في قضايا تهرب ضريبي",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/55e65044-d218-4545-80d3-f7e1e438e188.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/55e65044-d218-4545-80d3-f7e1e438e188.pt",
+  "sequence_length": 27,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163446"
+}

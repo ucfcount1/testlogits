@@ -1,0 +1,10 @@
+{
+  "example_id": "a603bd92-d489-4589-8c69-eb146e9ccef3",
+  "text": "ما هو الوضع الحالي لمانافورت في القضايا الأخرى؟",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/a603bd92-d489-4589-8c69-eb146e9ccef3.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/a603bd92-d489-4589-8c69-eb146e9ccef3.pt",
+  "sequence_length": 15,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163446"
+}

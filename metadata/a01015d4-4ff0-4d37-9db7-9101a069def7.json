@@ -1,0 +1,10 @@
+{
+  "example_id": "a01015d4-4ff0-4d37-9db7-9101a069def7",
+  "text": "ما هي المطالبة التي قدمتها الحكومة الإسبانية للمفوضية الأوروبية؟",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/a01015d4-4ff0-4d37-9db7-9101a069def7.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/a01015d4-4ff0-4d37-9db7-9101a069def7.pt",
+  "sequence_length": 17,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163444"
+}

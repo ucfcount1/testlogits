@@ -1,0 +1,10 @@
+{
+  "example_id": "77da8a90-b6ac-4c3f-a24d-0b7e66935e9e",
+  "text": "من هو رئيس وفد وكالة ستاندرد اند بورز الذي زار كوريا الجنوبية؟",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/77da8a90-b6ac-4c3f-a24d-0b7e66935e9e.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/77da8a90-b6ac-4c3f-a24d-0b7e66935e9e.pt",
+  "sequence_length": 20,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163442"
+}

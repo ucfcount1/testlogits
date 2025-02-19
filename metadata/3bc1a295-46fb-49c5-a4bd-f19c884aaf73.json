@@ -1,0 +1,10 @@
+{
+  "example_id": "3bc1a295-46fb-49c5-a4bd-f19c884aaf73",
+  "text": "اندمج صوت لورين جيلينكوف يتش بشكل رائع مع عزف الفرقة، مُشكِّلين لحناً لا يُنسى.",
+  "domain": "الثقافة",
+  "logits_path": "/tmp/logits_output/logits/3bc1a295-46fb-49c5-a4bd-f19c884aaf73.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/3bc1a295-46fb-49c5-a4bd-f19c884aaf73.pt",
+  "sequence_length": 38,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163451"
+}

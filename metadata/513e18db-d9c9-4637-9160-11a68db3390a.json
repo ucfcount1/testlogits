@@ -1,0 +1,10 @@
+{
+  "example_id": "513e18db-d9c9-4637-9160-11a68db3390a",
+  "text": "تعتبر رئاسة المملكة لمجموعة العشرين فرصة لـ ...",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/513e18db-d9c9-4637-9160-11a68db3390a.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/513e18db-d9c9-4637-9160-11a68db3390a.pt",
+  "sequence_length": 14,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163458"
+}

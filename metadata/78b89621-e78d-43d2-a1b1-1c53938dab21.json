@@ -1,0 +1,10 @@
+{
+  "example_id": "78b89621-e78d-43d2-a1b1-1c53938dab21",
+  "text": "تناقش أوروبا قضية ارتفاع أسعار الطاقة وتأثيرها على المستهلكين.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/78b89621-e78d-43d2-a1b1-1c53938dab21.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/78b89621-e78d-43d2-a1b1-1c53938dab21.pt",
+  "sequence_length": 21,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163443"
+}

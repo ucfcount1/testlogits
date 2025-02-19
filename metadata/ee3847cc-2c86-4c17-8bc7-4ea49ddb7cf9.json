@@ -1,0 +1,10 @@
+{
+  "example_id": "ee3847cc-2c86-4c17-8bc7-4ea49ddb7cf9",
+  "text": "شهدت وتيرة رفع الأسعار تراجعاً ملحوظاً مقارنة بالعام المنصرم.",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/ee3847cc-2c86-4c17-8bc7-4ea49ddb7cf9.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/ee3847cc-2c86-4c17-8bc7-4ea49ddb7cf9.pt",
+  "sequence_length": 25,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163457"
+}

@@ -1,0 +1,10 @@
+{
+  "example_id": "2f61f121-e4f4-4c38-a461-a9c8520ce6e9",
+  "text": "ما هو المخاوف التي أعربت عنها الوكالة بشأن الاقتصاد الكوري؟",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/2f61f121-e4f4-4c38-a461-a9c8520ce6e9.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/2f61f121-e4f4-4c38-a461-a9c8520ce6e9.pt",
+  "sequence_length": 19,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163442"
+}

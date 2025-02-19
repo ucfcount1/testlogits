@@ -1,0 +1,10 @@
+{
+  "example_id": "13c90c4d-d9b2-4092-86e3-502c91a901f0",
+  "text": "يرى وزير الطاقة النمساوي أن التحول إلى الطاقات المتجددة بسرعة هو الحل لارتفاع أسعار الغاز، مما يؤدي إلى الاستقلال عن واردات الغاز الروسية.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/13c90c4d-d9b2-4092-86e3-502c91a901f0.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/13c90c4d-d9b2-4092-86e3-502c91a901f0.pt",
+  "sequence_length": 41,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163445"
+}

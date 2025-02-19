@@ -1,0 +1,10 @@
+{
+  "example_id": "8d2301cb-7f73-461b-bca2-614e8d3bca0b",
+  "text": "النص الأصلي من البداية حتى 'ما جعل المدنيين داخل الحي ينتفضون...'",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/8d2301cb-7f73-461b-bca2-614e8d3bca0b.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/8d2301cb-7f73-461b-bca2-614e8d3bca0b.pt",
+  "sequence_length": 21,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163452"
+}

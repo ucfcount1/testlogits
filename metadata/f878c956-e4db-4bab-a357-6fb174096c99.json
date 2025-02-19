@@ -1,0 +1,10 @@
+{
+  "example_id": "f878c956-e4db-4bab-a357-6fb174096c99",
+  "text": "ديب زيتون",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/f878c956-e4db-4bab-a357-6fb174096c99.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/f878c956-e4db-4bab-a357-6fb174096c99.pt",
+  "sequence_length": 6,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163451"
+}

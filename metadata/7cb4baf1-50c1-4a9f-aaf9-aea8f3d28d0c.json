@@ -1,0 +1,10 @@
+{
+  "example_id": "7cb4baf1-50c1-4a9f-aaf9-aea8f3d28d0c",
+  "text": "كما أنها ترى أن التقدم بشأن التعامل المخاطر الجيو سياسية، وتشمل كوريا الشمالية مرضيا",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/7cb4baf1-50c1-4a9f-aaf9-aea8f3d28d0c.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/7cb4baf1-50c1-4a9f-aaf9-aea8f3d28d0c.pt",
+  "sequence_length": 23,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163443"
+}

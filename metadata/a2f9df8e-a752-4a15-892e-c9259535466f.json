@@ -1,0 +1,10 @@
+{
+  "example_id": "a2f9df8e-a752-4a15-892e-c9259535466f",
+  "text": "قال وزير المالية الكوري الجنوبي كيم دونج يون اليوم الخميس إن وكالة ستاندرد اند بورز للتصنيف الائتماني قدمت تقييما إيجابيا للاقتصاد في ظل تراجع حدة التوتر بين الكوريتين.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/a2f9df8e-a752-4a15-892e-c9259535466f.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/a2f9df8e-a752-4a15-892e-c9259535466f.pt",
+  "sequence_length": 59,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163442"
+}

@@ -1,0 +1,10 @@
+{
+  "example_id": "461473f1-de38-4e21-b0fd-084d684bf175",
+  "text": "كان مانافورت المدير السابق لحملة الرئيس الأمريكي دونالد ترمب الانتخابية.",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/461473f1-de38-4e21-b0fd-084d684bf175.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/461473f1-de38-4e21-b0fd-084d684bf175.pt",
+  "sequence_length": 20,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163446"
+}

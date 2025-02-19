@@ -1,0 +1,10 @@
+{
+  "example_id": "5c41b2ab-c4f2-495f-bf71-412bbb396e84",
+  "text": "من هي عازفة الكمان التي شاركت في الحفل؟",
+  "domain": "الثقافة",
+  "logits_path": "/tmp/logits_output/logits/5c41b2ab-c4f2-495f-bf71-412bbb396e84.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/5c41b2ab-c4f2-495f-bf71-412bbb396e84.pt",
+  "sequence_length": 15,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163450"
+}

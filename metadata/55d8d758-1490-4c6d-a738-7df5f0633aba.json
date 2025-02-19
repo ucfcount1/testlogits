@@ -1,0 +1,10 @@
+{
+  "example_id": "55d8d758-1490-4c6d-a738-7df5f0633aba",
+  "text": "توقعت شركة ديلويت ارتفاع مبيعات التجزئة خلال موسم الأعياد على الرغم من حالة عدم اليقين الاقتصادي وأزمة كورونا.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/55d8d758-1490-4c6d-a738-7df5f0633aba.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/55d8d758-1490-4c6d-a738-7df5f0633aba.pt",
+  "sequence_length": 35,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-163448"
+}
