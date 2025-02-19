@@ -1,0 +1,10 @@
+{
+  "example_id": "d41560a5-0d97-4e26-ba23-7a05f1278c14",
+  "text": "ليندسي دويتش",
+  "domain": "الثقافة",
+  "logits_path": "/tmp/logits_output/logits/d41560a5-0d97-4e26-ba23-7a05f1278c14.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/d41560a5-0d97-4e26-ba23-7a05f1278c14.pt",
+  "sequence_length": 6,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154144"
+}

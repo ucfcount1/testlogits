@@ -1,0 +1,10 @@
+{
+  "example_id": "ef1ab9e5-ca05-49f2-8645-a64eba6ac71c",
+  "text": "بين 1% و1.5% ليصل إلى 1.15 تريليون دولار",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/ef1ab9e5-ca05-49f2-8645-a64eba6ac71c.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/ef1ab9e5-ca05-49f2-8645-a64eba6ac71c.pt",
+  "sequence_length": 22,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154142"
+}

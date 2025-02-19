@@ -1,0 +1,10 @@
+{
+  "example_id": "d363a84a-4005-4fb7-bde5-38f695a551a3",
+  "text": "تتجه شركات الأدوية إلى زيادة أسعار منتجاتها.",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/d363a84a-4005-4fb7-bde5-38f695a551a3.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/d363a84a-4005-4fb7-bde5-38f695a551a3.pt",
+  "sequence_length": 16,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154151"
+}

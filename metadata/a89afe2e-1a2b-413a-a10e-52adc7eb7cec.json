@@ -1,0 +1,10 @@
+{
+  "example_id": "a89afe2e-1a2b-413a-a10e-52adc7eb7cec",
+  "text": "المؤتمر يتضمن مبادرات لتنمية المجتمع المحلي من خلال التعليم، الحفاظ على التراث، وتعزيز الاقتصاد المحلي.",
+  "domain": "السياحة",
+  "logits_path": "/tmp/logits_output/logits/a89afe2e-1a2b-413a-a10e-52adc7eb7cec.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/a89afe2e-1a2b-413a-a10e-52adc7eb7cec.pt",
+  "sequence_length": 31,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154154"
+}

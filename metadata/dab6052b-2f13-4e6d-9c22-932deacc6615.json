@@ -1,0 +1,10 @@
+{
+  "example_id": "dab6052b-2f13-4e6d-9c22-932deacc6615",
+  "text": "تعزيز التعاون الدولي وإيجاد توافق حول القضايا الاقتصادية، وتحقيق الاستقرار في الاقتصاد العالمي، وتطوير سياسات فعالة للتنمية المستدامة.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/dab6052b-2f13-4e6d-9c22-932deacc6615.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/dab6052b-2f13-4e6d-9c22-932deacc6615.pt",
+  "sequence_length": 37,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154151"
+}

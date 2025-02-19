@@ -1,0 +1,10 @@
+{
+  "example_id": "11100a61-491a-4330-abf7-01d51f89a750",
+  "text": "'ما جعل المدنيين داخل الحي ينتفضون...' حتى النهاية",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/11100a61-491a-4330-abf7-01d51f89a750.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/11100a61-491a-4330-abf7-01d51f89a750.pt",
+  "sequence_length": 16,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154146"
+}

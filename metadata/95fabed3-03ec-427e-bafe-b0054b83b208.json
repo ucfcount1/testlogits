@@ -1,0 +1,10 @@
+{
+  "example_id": "95fabed3-03ec-427e-bafe-b0054b83b208",
+  "text": "التسوق الإلكتروني",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/95fabed3-03ec-427e-bafe-b0054b83b208.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/95fabed3-03ec-427e-bafe-b0054b83b208.pt",
+  "sequence_length": 6,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154142"
+}

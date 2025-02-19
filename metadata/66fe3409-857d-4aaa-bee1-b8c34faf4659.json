@@ -1,0 +1,10 @@
+{
+  "example_id": "66fe3409-857d-4aaa-bee1-b8c34faf4659",
+  "text": "أكثر من 250 صنفا دوائيا.",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/66fe3409-857d-4aaa-bee1-b8c34faf4659.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/66fe3409-857d-4aaa-bee1-b8c34faf4659.pt",
+  "sequence_length": 14,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154149"
+}

@@ -1,0 +1,10 @@
+{
+  "example_id": "94a4270f-2a02-4392-821a-3af09c5c3e81",
+  "text": "تؤمن المملكة بأهمية العمل متعدد الأطراف للتوصل إلى توافق وخلق فرص للجميع. كما أن مجموعة الـ77 والصين لديها فرص عديدة لتطوير التعاون وتبني سياسات اقتصادية مستدامة، لضمان عدم تخلف أي دولة عن الركب.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/94a4270f-2a02-4392-821a-3af09c5c3e81.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/94a4270f-2a02-4392-821a-3af09c5c3e81.pt",
+  "sequence_length": 68,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154152"
+}

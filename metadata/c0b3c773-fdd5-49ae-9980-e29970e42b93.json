@@ -1,0 +1,10 @@
+{
+  "example_id": "c0b3c773-fdd5-49ae-9980-e29970e42b93",
+  "text": "أدين مانافورت بجرائم تتعلق بالتلاعب الضريبي والاحتيال المصرفي.",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/c0b3c773-fdd5-49ae-9980-e29970e42b93.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/c0b3c773-fdd5-49ae-9980-e29970e42b93.pt",
+  "sequence_length": 24,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154140"
+}

@@ -1,0 +1,10 @@
+{
+  "example_id": "155d43e7-0d99-4213-bf2d-c6381b10d39b",
+  "text": "تراجع إجمالي الناتج المحلي الأمريكي بنسبة 32.9% خلال الربع الثاني",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/155d43e7-0d99-4213-bf2d-c6381b10d39b.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/155d43e7-0d99-4213-bf2d-c6381b10d39b.pt",
+  "sequence_length": 21,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154143"
+}

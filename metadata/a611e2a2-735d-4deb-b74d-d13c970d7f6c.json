@@ -1,0 +1,10 @@
+{
+  "example_id": "a611e2a2-735d-4deb-b74d-d13c970d7f6c",
+  "text": "السجن 4 سنوات لمانافورت مدير حملة ترمب الانتخابية في قضايا مالية",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/a611e2a2-735d-4deb-b74d-d13c970d7f6c.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/a611e2a2-735d-4deb-b74d-d13c970d7f6c.pt",
+  "sequence_length": 23,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154141"
+}

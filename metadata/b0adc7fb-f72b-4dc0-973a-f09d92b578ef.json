@@ -1,0 +1,10 @@
+{
+  "example_id": "b0adc7fb-f72b-4dc0-973a-f09d92b578ef",
+  "text": "ما هو الدواء الأكثر مبيعاً الذي تم رفع سعره؟",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/b0adc7fb-f72b-4dc0-973a-f09d92b578ef.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/b0adc7fb-f72b-4dc0-973a-f09d92b578ef.pt",
+  "sequence_length": 16,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154149"
+}

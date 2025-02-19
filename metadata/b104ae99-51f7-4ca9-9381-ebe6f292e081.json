@@ -1,0 +1,10 @@
+{
+  "example_id": "b104ae99-51f7-4ca9-9381-ebe6f292e081",
+  "text": "ما هي القضية التي تناقشها أوروبا فيما يتعلق بالطاقة؟",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/b104ae99-51f7-4ca9-9381-ebe6f292e081.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/b104ae99-51f7-4ca9-9381-ebe6f292e081.pt",
+  "sequence_length": 18,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154138"
+}

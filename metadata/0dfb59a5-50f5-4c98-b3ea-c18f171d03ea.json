@@ -1,0 +1,10 @@
+{
+  "example_id": "0dfb59a5-50f5-4c98-b3ea-c18f171d03ea",
+  "text": "أكد السفير عبدالله المعلمي على التزام المملكة بـ ...",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/0dfb59a5-50f5-4c98-b3ea-c18f171d03ea.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/0dfb59a5-50f5-4c98-b3ea-c18f171d03ea.pt",
+  "sequence_length": 15,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154152"
+}

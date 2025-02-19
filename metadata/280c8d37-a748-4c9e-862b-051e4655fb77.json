@@ -1,0 +1,10 @@
+{
+  "example_id": "280c8d37-a748-4c9e-862b-051e4655fb77",
+  "text": "سيتم عقده في واحة سيوة.",
+  "domain": "السياحة",
+  "logits_path": "/tmp/logits_output/logits/280c8d37-a748-4c9e-862b-051e4655fb77.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/280c8d37-a748-4c9e-862b-051e4655fb77.pt",
+  "sequence_length": 12,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154153"
+}

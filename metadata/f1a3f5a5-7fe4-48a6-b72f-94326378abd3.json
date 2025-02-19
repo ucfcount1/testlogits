@@ -1,0 +1,10 @@
+{
+  "example_id": "f1a3f5a5-7fe4-48a6-b72f-94326378abd3",
+  "text": "برر القاضي الحكم الخفيف على مانافورت بالأحكام السابقة الخفيفة في قضايا تهرب ضريبي.",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/f1a3f5a5-7fe4-48a6-b72f-94326378abd3.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/f1a3f5a5-7fe4-48a6-b72f-94326378abd3.pt",
+  "sequence_length": 29,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154141"
+}

@@ -1,0 +1,10 @@
+{
+  "example_id": "c4093cdd-535c-42ad-a1b3-9fe8e7d50106",
+  "text": "ما هي النسبة المتوقعة لنمو إجمالي الإنفاق خلال موسم الأعياد القادم؟",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/c4093cdd-535c-42ad-a1b3-9fe8e7d50106.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/c4093cdd-535c-42ad-a1b3-9fe8e7d50106.pt",
+  "sequence_length": 22,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154142"
+}

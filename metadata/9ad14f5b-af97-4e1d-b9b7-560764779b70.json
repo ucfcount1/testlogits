@@ -1,0 +1,10 @@
+{
+  "example_id": "9ad14f5b-af97-4e1d-b9b7-560764779b70",
+  "text": "المملكة العربية السعودية تركز على التعاون الدولي والتوافق الاقتصادي خلال رئاستها لمجموعة العشرين، بهدف تعزيز الاستقرار والتنمية المستدامة عالمياً.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/9ad14f5b-af97-4e1d-b9b7-560764779b70.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/9ad14f5b-af97-4e1d-b9b7-560764779b70.pt",
+  "sequence_length": 40,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154152"
+}

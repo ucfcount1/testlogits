@@ -1,0 +1,10 @@
+{
+  "example_id": "5c1184ba-d9ca-4f6d-bb81-902363f88144",
+  "text": "كم عدد الأدوية التي رفعت شركات الأدوية أسعارها في بداية عام 2019 في أمريكا؟",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/5c1184ba-d9ca-4f6d-bb81-902363f88144.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/5c1184ba-d9ca-4f6d-bb81-902363f88144.pt",
+  "sequence_length": 26,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154149"
+}

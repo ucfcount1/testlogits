@@ -1,0 +1,10 @@
+{
+  "example_id": "ffb31e93-3ba8-4b9c-aee9-5651f377336e",
+  "text": "نحو الثلث.",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/ffb31e93-3ba8-4b9c-aee9-5651f377336e.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/ffb31e93-3ba8-4b9c-aee9-5651f377336e.pt",
+  "sequence_length": 7,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154150"
+}

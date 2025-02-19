@@ -1,0 +1,10 @@
+{
+  "example_id": "b6188e90-c8b4-4bd9-87b7-862ace3c28c4",
+  "text": "ما هو التقييم الذي قدمته وكالة ستاندرد اند بورز للاقتصاد الكوري الجنوبي؟",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/b6188e90-c8b4-4bd9-87b7-862ace3c28c4.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/b6188e90-c8b4-4bd9-87b7-862ace3c28c4.pt",
+  "sequence_length": 24,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154136"
+}

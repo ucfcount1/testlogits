@@ -1,0 +1,10 @@
+{
+  "example_id": "cf17e5d5-8dab-4f4e-a6f7-71655525df18",
+  "text": "توقع الرئيس الأمريكي دونالد ترمب خفضا كبيرا في أسعار الأدوية، وحضر الاجتماع وزير الصحة والخدمات الإنسانية أليكس أزار.",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/cf17e5d5-8dab-4f4e-a6f7-71655525df18.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/cf17e5d5-8dab-4f4e-a6f7-71655525df18.pt",
+  "sequence_length": 35,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154150"
+}

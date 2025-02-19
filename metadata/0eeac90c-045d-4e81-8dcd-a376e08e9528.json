@@ -1,0 +1,10 @@
+{
+  "example_id": "0eeac90c-045d-4e81-8dcd-a376e08e9528",
+  "text": "قدمت وكالة ستاندرد اند بورز تقييماً إيجابياً للاقتصاد الكوري الجنوبي.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/0eeac90c-045d-4e81-8dcd-a376e08e9528.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/0eeac90c-045d-4e81-8dcd-a376e08e9528.pt",
+  "sequence_length": 29,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154136"
+}

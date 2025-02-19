@@ -1,0 +1,10 @@
+{
+  "example_id": "60ce583e-dff2-45d6-8997-bf66b0c7b315",
+  "text": "تؤكد المملكة العربية السعودية، من خلال رئاستها لمجموعة العشرين، على تعزيز التعاون الدولي وإيجاد توافق حول القضايا الاقتصادية العالمية. تهدف المملكة إلى تحقيق الاستقرار والازدهار للاقتصاد العالمي، وتطوير سياسات فعالة للتنمية المستدامة والمتوازنة.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/60ce583e-dff2-45d6-8997-bf66b0c7b315.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/60ce583e-dff2-45d6-8997-bf66b0c7b315.pt",
+  "sequence_length": 66,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154152"
+}

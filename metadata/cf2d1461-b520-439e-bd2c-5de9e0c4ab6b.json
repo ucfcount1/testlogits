@@ -1,0 +1,10 @@
+{
+  "example_id": "cf2d1461-b520-439e-bd2c-5de9e0c4ab6b",
+  "text": "تعد تكلفة الغاز الطبيعي المحرك الرئيسي لارتفاع أسعار الطاقة.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/cf2d1461-b520-439e-bd2c-5de9e0c4ab6b.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/cf2d1461-b520-439e-bd2c-5de9e0c4ab6b.pt",
+  "sequence_length": 19,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154139"
+}

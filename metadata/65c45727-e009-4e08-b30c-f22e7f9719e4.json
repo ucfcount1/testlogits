@@ -1,0 +1,10 @@
+{
+  "example_id": "65c45727-e009-4e08-b30c-f22e7f9719e4",
+  "text": "لم تنجح في كسر هذا الحصار. الوضع الطبي في الحي سيء للغاية، مما يزيد من معاناة السكان المحليين.",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/65c45727-e009-4e08-b30c-f22e7f9719e4.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/65c45727-e009-4e08-b30c-f22e7f9719e4.pt",
+  "sequence_length": 34,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154147"
+}

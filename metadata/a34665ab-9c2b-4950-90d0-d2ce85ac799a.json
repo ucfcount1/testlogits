@@ -1,0 +1,10 @@
+{
+  "example_id": "a34665ab-9c2b-4950-90d0-d2ce85ac799a",
+  "text": "ما هي الإجراءات التي اتخذها نظام الأسد ضد حي الوعر بعد تعليق المفاوضات؟",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/a34665ab-9c2b-4950-90d0-d2ce85ac799a.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/a34665ab-9c2b-4950-90d0-d2ce85ac799a.pt",
+  "sequence_length": 25,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154146"
+}

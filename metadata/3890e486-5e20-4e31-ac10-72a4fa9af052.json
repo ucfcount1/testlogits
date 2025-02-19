@@ -1,0 +1,10 @@
+{
+  "example_id": "3890e486-5e20-4e31-ac10-72a4fa9af052",
+  "text": "مركز لتعليم اللغة الإنجليزية، مما يسهل التواصل مع السياح ويفتح آفاقاً جديدة لأبناء سيوة.",
+  "domain": "السياحة",
+  "logits_path": "/tmp/logits_output/logits/3890e486-5e20-4e31-ac10-72a4fa9af052.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/3890e486-5e20-4e31-ac10-72a4fa9af052.pt",
+  "sequence_length": 30,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154154"
+}

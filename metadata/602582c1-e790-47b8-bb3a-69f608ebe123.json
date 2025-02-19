@@ -1,0 +1,10 @@
+{
+  "example_id": "602582c1-e790-47b8-bb3a-69f608ebe123",
+  "text": "سيتم عقد المؤتمر في ",
+  "domain": "السياحة",
+  "logits_path": "/tmp/logits_output/logits/602582c1-e790-47b8-bb3a-69f608ebe123.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/602582c1-e790-47b8-bb3a-69f608ebe123.pt",
+  "sequence_length": 8,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154154"
+}

@@ -1,0 +1,10 @@
+{
+  "example_id": "e1bd9201-7576-41a8-b73f-961e20f4ccc6",
+  "text": "أقل من العام الماضي.",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/e1bd9201-7576-41a8-b73f-961e20f4ccc6.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/e1bd9201-7576-41a8-b73f-961e20f4ccc6.pt",
+  "sequence_length": 7,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154149"
+}

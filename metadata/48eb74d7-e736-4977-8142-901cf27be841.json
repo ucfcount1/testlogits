@@ -1,0 +1,10 @@
+{
+  "example_id": "48eb74d7-e736-4977-8142-901cf27be841",
+  "text": "أعطت وكالة ستاندرد اند بورز تقييماً إيجابياً للاقتصاد الكوري الجنوبي بسبب انخفاض التوتر بين الكوريتين.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/48eb74d7-e736-4977-8142-901cf27be841.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/48eb74d7-e736-4977-8142-901cf27be841.pt",
+  "sequence_length": 38,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154137"
+}

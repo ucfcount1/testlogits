@@ -1,0 +1,10 @@
+{
+  "example_id": "e651e634-fdeb-4bbc-90d0-6be5f84271ef",
+  "text": "كم بلغ الانخفاض في العدد الإجمالي لزيادات الأسعار مقارنة بالعام الماضي؟",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/e651e634-fdeb-4bbc-90d0-6be5f84271ef.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/e651e634-fdeb-4bbc-90d0-6be5f84271ef.pt",
+  "sequence_length": 19,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154150"
+}

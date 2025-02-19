@@ -1,0 +1,10 @@
+{
+  "example_id": "2593fa61-786f-4e34-bd42-33d2442188c6",
+  "text": "طالبت الحكومة الإسبانية المفوضية الأوروبية بوضع قواعد لمواجهة ارتفاع أسعار الطاقة.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/2593fa61-786f-4e34-bd42-33d2442188c6.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/2593fa61-786f-4e34-bd42-33d2442188c6.pt",
+  "sequence_length": 24,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154139"
+}

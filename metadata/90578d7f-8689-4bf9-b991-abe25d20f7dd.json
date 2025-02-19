@@ -1,0 +1,10 @@
+{
+  "example_id": "90578d7f-8689-4bf9-b991-abe25d20f7dd",
+  "text": "ما هي العوامل التي رأتها الوكالة إيجابية في الاقتصاد الكوري؟",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/90578d7f-8689-4bf9-b991-abe25d20f7dd.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/90578d7f-8689-4bf9-b991-abe25d20f7dd.pt",
+  "sequence_length": 20,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154136"
+}

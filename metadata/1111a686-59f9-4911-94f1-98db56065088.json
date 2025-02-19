@@ -1,0 +1,10 @@
+{
+  "example_id": "1111a686-59f9-4911-94f1-98db56065088",
+  "text": "التحول السريع إلى الطاقات المتجددة هو الحل المقترح لمواجهة ارتفاع أسعار الغاز.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/1111a686-59f9-4911-94f1-98db56065088.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/1111a686-59f9-4911-94f1-98db56065088.pt",
+  "sequence_length": 27,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154138"
+}

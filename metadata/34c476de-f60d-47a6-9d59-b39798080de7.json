@@ -1,0 +1,10 @@
+{
+  "example_id": "34c476de-f60d-47a6-9d59-b39798080de7",
+  "text": "تُعد الرياضيات جزءًا لا يتجزأ من حياتنا، حيث تؤثر على كل جانب من جوانبها، من التواصل إلى السفر والعمل والاسترخاء. ومع ذلك، فإن الكثيرين لا يدركون القوة الكاملة للرياضيات وتأثيرها الواسع.",
+  "domain": "الرياضيات",
+  "logits_path": "/tmp/logits_output/logits/34c476de-f60d-47a6-9d59-b39798080de7.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/34c476de-f60d-47a6-9d59-b39798080de7.pt",
+  "sequence_length": 67,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154148"
+}

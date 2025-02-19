@@ -1,0 +1,10 @@
+{
+  "example_id": "b5420656-d0bc-4f0b-a30c-6ed0962f75e6",
+  "text": "قدم ياني باقة من مقطوعاته الموسيقية أمام الجمهور الذي تفاعل معها بكل حواسه.",
+  "domain": "الثقافة",
+  "logits_path": "/tmp/logits_output/logits/b5420656-d0bc-4f0b-a30c-6ed0962f75e6.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/b5420656-d0bc-4f0b-a30c-6ed0962f75e6.pt",
+  "sequence_length": 28,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154145"
+}

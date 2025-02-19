@@ -1,0 +1,10 @@
+{
+  "example_id": "21cee33d-a9b7-4d90-b277-b4bde3f8265e",
+  "text": "ما هو البند الذي وصلت المفاوضات بشأنه إلى طريق مسدود في حي الوعر؟",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/21cee33d-a9b7-4d90-b277-b4bde3f8265e.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/21cee33d-a9b7-4d90-b277-b4bde3f8265e.pt",
+  "sequence_length": 23,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154145"
+}

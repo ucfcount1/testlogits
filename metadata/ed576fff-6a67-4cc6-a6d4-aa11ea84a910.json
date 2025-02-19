@@ -1,0 +1,10 @@
+{
+  "example_id": "ed576fff-6a67-4cc6-a6d4-aa11ea84a910",
+  "text": "تعمل المملكة على أن تكون جسراً متيناً للتواصل بين الدول النامية والدول الشريكة، وتعزز التعاون في مختلف المجالات الاقتصادية والاجتماعية.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/ed576fff-6a67-4cc6-a6d4-aa11ea84a910.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/ed576fff-6a67-4cc6-a6d4-aa11ea84a910.pt",
+  "sequence_length": 41,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154152"
+}

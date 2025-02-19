@@ -1,0 +1,10 @@
+{
+  "example_id": "cf996530-f818-4fb2-8da2-bb18349491f3",
+  "text": "كم عدد شركات صناعة الأدوية التي أبلغت وكالات كاليفورنيا عن نيتها لرفع الأسعار؟",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/cf996530-f818-4fb2-8da2-bb18349491f3.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/cf996530-f818-4fb2-8da2-bb18349491f3.pt",
+  "sequence_length": 24,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154150"
+}

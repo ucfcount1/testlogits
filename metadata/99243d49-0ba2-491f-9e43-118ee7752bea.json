@@ -1,0 +1,10 @@
+{
+  "example_id": "99243d49-0ba2-491f-9e43-118ee7752bea",
+  "text": "المملكة تدعم العمل متعدد الأطراف والتعاون بين الدول النامية، وتسعى لتعزيز الفرص الاقتصادية المستدامة من خلال مجموعة الـ77 والصين.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/99243d49-0ba2-491f-9e43-118ee7752bea.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/99243d49-0ba2-491f-9e43-118ee7752bea.pt",
+  "sequence_length": 40,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154152"
+}

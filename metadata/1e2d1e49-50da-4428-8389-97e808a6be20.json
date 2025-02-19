@@ -1,0 +1,10 @@
+{
+  "example_id": "1e2d1e49-50da-4428-8389-97e808a6be20",
+  "text": "بدأت شركات الأدوية عام 2019 بفرض زيادات في أسعار أكثر من 250 صنفا دوائيا في الولايات المتحدة، بما في ذلك عقار هوميرا الأكثر مبيعا في العالم، على الرغم من أن وتيرة رفع الأسعار كانت أقل من العام الماضي.",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/1e2d1e49-50da-4428-8389-97e808a6be20.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/1e2d1e49-50da-4428-8389-97e808a6be20.pt",
+  "sequence_length": 66,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154150"
+}

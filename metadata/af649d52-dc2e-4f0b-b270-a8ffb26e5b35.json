@@ -1,0 +1,10 @@
+{
+  "example_id": "af649d52-dc2e-4f0b-b270-a8ffb26e5b35",
+  "text": "افتتاح مركز لتعليم اللغة الإنجليزية، وافتتاح المتحف السيوي، وإنشاء مركز للتدريب والتعلم وتطوير المنتجات السيوية.",
+  "domain": "السياحة",
+  "logits_path": "/tmp/logits_output/logits/af649d52-dc2e-4f0b-b270-a8ffb26e5b35.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/af649d52-dc2e-4f0b-b270-a8ffb26e5b35.pt",
+  "sequence_length": 33,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154153"
+}

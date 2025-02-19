@@ -1,0 +1,10 @@
+{
+  "example_id": "8577bff3-e7dd-4a8f-ba12-c86e22e994ad",
+  "text": "حكم على بول مانافورت، المدير السابق لحملة ترمب، بالسجن 4 سنوات بسبب جرائم مالية.",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/8577bff3-e7dd-4a8f-ba12-c86e22e994ad.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/8577bff3-e7dd-4a8f-ba12-c86e22e994ad.pt",
+  "sequence_length": 28,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154141"
+}

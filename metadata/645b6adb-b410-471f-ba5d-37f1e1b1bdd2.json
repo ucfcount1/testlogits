@@ -1,0 +1,10 @@
+{
+  "example_id": "645b6adb-b410-471f-ba5d-37f1e1b1bdd2",
+  "text": "من هو رئيس مخابرات الأسد الذي نكث وعوده في حي الوعر؟",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/645b6adb-b410-471f-ba5d-37f1e1b1bdd2.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/645b6adb-b410-471f-ba5d-37f1e1b1bdd2.pt",
+  "sequence_length": 19,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154145"
+}

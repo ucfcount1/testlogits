@@ -1,0 +1,10 @@
+{
+  "example_id": "adc85011-cb53-422d-a4bc-987a49c56964",
+  "text": "وتعتبر الوكالة أن التقدم في معالجة المخاطر الجيوسياسية، بما في ذلك تلك المتعلقة بكوريا الشمالية، مرضٍ.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/adc85011-cb53-422d-a4bc-987a49c56964.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/adc85011-cb53-422d-a4bc-987a49c56964.pt",
+  "sequence_length": 32,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154137"
+}

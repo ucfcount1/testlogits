@@ -1,0 +1,10 @@
+{
+  "example_id": "a60db90a-c7e4-40d8-a97c-75749f667fd2",
+  "text": "ما هو عنوان المؤتمر السياحي الدولي الثاني؟",
+  "domain": "السياحة",
+  "logits_path": "/tmp/logits_output/logits/a60db90a-c7e4-40d8-a97c-75749f667fd2.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/a60db90a-c7e4-40d8-a97c-75749f667fd2.pt",
+  "sequence_length": 11,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154153"
+}

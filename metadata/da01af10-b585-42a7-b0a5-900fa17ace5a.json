@@ -1,0 +1,10 @@
+{
+  "example_id": "da01af10-b585-42a7-b0a5-900fa17ace5a",
+  "text": "شهد الاقتصاد الأمريكي انكماشاً في الربع الثاني من العام.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/da01af10-b585-42a7-b0a5-900fa17ace5a.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/da01af10-b585-42a7-b0a5-900fa17ace5a.pt",
+  "sequence_length": 17,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154143"
+}

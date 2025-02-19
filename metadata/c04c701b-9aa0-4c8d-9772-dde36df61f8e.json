@@ -1,0 +1,10 @@
+{
+  "example_id": "c04c701b-9aa0-4c8d-9772-dde36df61f8e",
+  "text": "تعتبر الزيادة الكبيرة في تكلفة الغاز الطبيعي العامل الرئيسي وراء الارتفاع الملحوظ في أسعار الطاقة بشكل عام، مما يؤثر بشكل مباشر على المستهلكين في مختلف القطاعات.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/c04c701b-9aa0-4c8d-9772-dde36df61f8e.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/c04c701b-9aa0-4c8d-9772-dde36df61f8e.pt",
+  "sequence_length": 46,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154140"
+}

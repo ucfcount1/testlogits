@@ -1,0 +1,10 @@
+{
+  "example_id": "80af718f-00b6-401a-b28f-cf326840a690",
+  "text": "يستعرض كتاب كيت ييتس قصصًا حقيقية توضح كيف يمكن لتطبيق الرياضيات أو سوء تطبيقها أن يغير الحياة. يتضمن ذلك حالات مثل مرضى أصبحوا معاقين بسبب تحليل جينات خاطئ، ورجال أعمال أفلسوا بسبب خوارزميات معيبة.",
+  "domain": "الرياضيات",
+  "logits_path": "/tmp/logits_output/logits/80af718f-00b6-401a-b28f-cf326840a690.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/80af718f-00b6-401a-b28f-cf326840a690.pt",
+  "sequence_length": 73,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154148"
+}

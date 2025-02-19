@@ -1,0 +1,10 @@
+{
+  "example_id": "a98c9d00-1091-4a97-a1ea-6acbd683a4c5",
+  "text": "تعتبر رئاسة المملكة لمجموعة العشرين فرصة لتعزيز التعاون الاقتصادي العالمي وتبني سياسات مستدامة تخدم مصالح الدول النامية.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/a98c9d00-1091-4a97-a1ea-6acbd683a4c5.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/a98c9d00-1091-4a97-a1ea-6acbd683a4c5.pt",
+  "sequence_length": 36,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154153"
+}

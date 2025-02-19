@@ -1,0 +1,10 @@
+{
+  "example_id": "4394c8ef-cdac-4022-b757-70cb5f8248a2",
+  "text": "ما هي بعض العواقب السلبية لسوء فهم الرياضيات؟",
+  "domain": "الرياضيات",
+  "logits_path": "/tmp/logits_output/logits/4394c8ef-cdac-4022-b757-70cb5f8248a2.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/4394c8ef-cdac-4022-b757-70cb5f8248a2.pt",
+  "sequence_length": 16,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154147"
+}

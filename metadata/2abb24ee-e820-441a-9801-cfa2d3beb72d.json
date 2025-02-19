@@ -1,0 +1,10 @@
+{
+  "example_id": "2abb24ee-e820-441a-9801-cfa2d3beb72d",
+  "text": "نكث نظام الأسد، بقيادة ديب زيتون، وعوده في حي الوعر بحمص بشأن الإفراج عن المعتقلين. بعد وصول المفاوضات إلى طريق مسدود، قام النظام بتشديد الحصار على الحي، مما أدى إلى احتجاجات واسعة بين المدنيين.",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/2abb24ee-e820-441a-9801-cfa2d3beb72d.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/2abb24ee-e820-441a-9801-cfa2d3beb72d.pt",
+  "sequence_length": 66,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154146"
+}

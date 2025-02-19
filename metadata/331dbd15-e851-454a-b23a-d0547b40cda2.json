@@ -1,0 +1,10 @@
+{
+  "example_id": "331dbd15-e851-454a-b23a-d0547b40cda2",
+  "text": "سيتم خلال المؤتمر افتتاح مراكز تعليمية ومتحف، بالإضافة إلى التركيز على تطوير المنتجات المحلية وفرص العمل.",
+  "domain": "السياحة",
+  "logits_path": "/tmp/logits_output/logits/331dbd15-e851-454a-b23a-d0547b40cda2.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/331dbd15-e851-454a-b23a-d0547b40cda2.pt",
+  "sequence_length": 30,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154154"
+}

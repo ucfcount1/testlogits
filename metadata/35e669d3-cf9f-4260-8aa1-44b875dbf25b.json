@@ -1,0 +1,10 @@
+{
+  "example_id": "35e669d3-cf9f-4260-8aa1-44b875dbf25b",
+  "text": "بند المعتقلين",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/35e669d3-cf9f-4260-8aa1-44b875dbf25b.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/35e669d3-cf9f-4260-8aa1-44b875dbf25b.pt",
+  "sequence_length": 6,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154146"
+}

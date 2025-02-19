@@ -1,0 +1,10 @@
+{
+  "example_id": "9cb63545-a2d3-4155-b961-95c4bd9ac831",
+  "text": "يستكشف كتاب كيت ييتس قصصًا حقيقية توضح دور الرياضيات في تغيير الحياة، ويقدم أدوات رياضية بسيطة لمساعدتنا على اتخاذ قرارات أفضل.",
+  "domain": "الرياضيات",
+  "logits_path": "/tmp/logits_output/logits/9cb63545-a2d3-4155-b961-95c4bd9ac831.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/9cb63545-a2d3-4155-b961-95c4bd9ac831.pt",
+  "sequence_length": 48,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154148"
+}

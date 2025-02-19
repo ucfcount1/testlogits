@@ -1,0 +1,10 @@
+{
+  "example_id": "d576266d-3828-413d-bf31-2aa2a921a9aa",
+  "text": "تسليط الضوء على الإمكانات السياحية الهائلة لواحة سيوة وسبل تطويرها بشكل مستدام.",
+  "domain": "السياحة",
+  "logits_path": "/tmp/logits_output/logits/d576266d-3828-413d-bf31-2aa2a921a9aa.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/d576266d-3828-413d-bf31-2aa2a921a9aa.pt",
+  "sequence_length": 29,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154154"
+}

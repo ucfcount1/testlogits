@@ -1,0 +1,10 @@
+{
+  "example_id": "b4b209ae-5016-4ff8-8831-103da0759353",
+  "text": "نحو 30 شركة.",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/b4b209ae-5016-4ff8-8831-103da0759353.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/b4b209ae-5016-4ff8-8831-103da0759353.pt",
+  "sequence_length": 8,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154150"
+}

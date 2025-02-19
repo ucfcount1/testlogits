@@ -1,0 +1,10 @@
+{
+  "example_id": "dedc5e7b-a6fb-417c-a82e-be495b79f571",
+  "text": "لم يعلق فريق المدعي الخاص روبرت مولر على القرار.",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/dedc5e7b-a6fb-417c-a82e-be495b79f571.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/dedc5e7b-a6fb-417c-a82e-be495b79f571.pt",
+  "sequence_length": 15,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154140"
+}

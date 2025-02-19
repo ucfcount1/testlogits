@@ -1,0 +1,10 @@
+{
+  "example_id": "08198616-adc8-4b8e-a9a7-2d57ee1035d8",
+  "text": "سجل أكبر اقتصاد عالمي انكماشاً في الربع الثاني، مما يشير إلى دخوله في مرحلة ركود.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/08198616-adc8-4b8e-a9a7-2d57ee1035d8.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/08198616-adc8-4b8e-a9a7-2d57ee1035d8.pt",
+  "sequence_length": 29,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154144"
+}

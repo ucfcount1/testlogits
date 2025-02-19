@@ -1,0 +1,10 @@
+{
+  "example_id": "38746e05-75ac-41d4-bda7-a02be1a60321",
+  "text": "شركات الأدوية ترفع الأسعار",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/38746e05-75ac-41d4-bda7-a02be1a60321.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/38746e05-75ac-41d4-bda7-a02be1a60321.pt",
+  "sequence_length": 9,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154151"
+}

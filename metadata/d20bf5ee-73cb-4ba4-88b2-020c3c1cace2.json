@@ -1,0 +1,10 @@
+{
+  "example_id": "d20bf5ee-73cb-4ba4-88b2-020c3c1cace2",
+  "text": "وقال وزير الطاقة النمساوي ليونوري جيويسلير إن حل مشكلة ارتفاع أسعار الغاز هو التحول السريع للطاقات المتجددة، مضيفا أن ذلك سوف يؤدي على سبيل المثال غلى استقلال عن واردات الغاز الروسي.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/d20bf5ee-73cb-4ba4-88b2-020c3c1cace2.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/d20bf5ee-73cb-4ba4-88b2-020c3c1cace2.pt",
+  "sequence_length": 55,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154139"
+}

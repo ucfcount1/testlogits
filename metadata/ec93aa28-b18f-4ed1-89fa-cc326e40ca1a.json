@@ -1,0 +1,10 @@
+{
+  "example_id": "ec93aa28-b18f-4ed1-89fa-cc326e40ca1a",
+  "text": "قام نظام الأسد بمنع الموظفين في الشركات الخاصة من الذهاب إلى عملهم، كما منع...",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/ec93aa28-b18f-4ed1-89fa-cc326e40ca1a.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/ec93aa28-b18f-4ed1-89fa-cc326e40ca1a.pt",
+  "sequence_length": 24,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154147"
+}

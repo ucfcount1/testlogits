@@ -1,0 +1,10 @@
+{
+  "example_id": "ff3a0cc7-15e9-496e-bf5f-cc813ac8abe2",
+  "text": "رفعت شركات الأدوية أسعار أكثر من 250 دواءً في أمريكا بداية عام 2019، رغم انخفاض وتيرة الارتفاع عن العام الماضي.",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/ff3a0cc7-15e9-496e-bf5f-cc813ac8abe2.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/ff3a0cc7-15e9-496e-bf5f-cc813ac8abe2.pt",
+  "sequence_length": 41,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154150"
+}

@@ -1,0 +1,10 @@
+{
+  "example_id": "47159eb5-949d-4da2-81bd-506e0c3a9f63",
+  "text": "7365 معتقل، بالإضافة إلى ملحق يحتوي على 800 معتقل",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/47159eb5-949d-4da2-81bd-506e0c3a9f63.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/47159eb5-949d-4da2-81bd-506e0c3a9f63.pt",
+  "sequence_length": 23,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154146"
+}

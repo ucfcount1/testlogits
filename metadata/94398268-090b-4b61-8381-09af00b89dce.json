@@ -1,0 +1,10 @@
+{
+  "example_id": "94398268-090b-4b61-8381-09af00b89dce",
+  "text": "من هو وزير الصحة والخدمات الإنسانية الذي حضر الاجتماع في البيت الأبيض؟",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/94398268-090b-4b61-8381-09af00b89dce.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/94398268-090b-4b61-8381-09af00b89dce.pt",
+  "sequence_length": 19,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154150"
+}

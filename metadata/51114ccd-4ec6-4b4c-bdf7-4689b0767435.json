@@ -1,0 +1,10 @@
+{
+  "example_id": "51114ccd-4ec6-4b4c-bdf7-4689b0767435",
+  "text": "تسبب الارتفاع الحاد في أسعار الطاقة قلقاً بالغاً لدى المسؤولين في الدول الأوروبية، مما دفعهم إلى تكثيف جهودهم لإيجاد حلول مستدامة وفعالة لتخفيف العبء عن المستهلكين.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/51114ccd-4ec6-4b4c-bdf7-4689b0767435.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/51114ccd-4ec6-4b4c-bdf7-4689b0767435.pt",
+  "sequence_length": 60,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154139"
+}

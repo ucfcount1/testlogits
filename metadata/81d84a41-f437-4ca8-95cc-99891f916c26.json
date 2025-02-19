@@ -1,0 +1,10 @@
+{
+  "example_id": "81d84a41-f437-4ca8-95cc-99891f916c26",
+  "text": "التطوير المتوازن لواحة سيوة على خريطة السياحة الدولية.",
+  "domain": "السياحة",
+  "logits_path": "/tmp/logits_output/logits/81d84a41-f437-4ca8-95cc-99891f916c26.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/81d84a41-f437-4ca8-95cc-99891f916c26.pt",
+  "sequence_length": 19,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154153"
+}

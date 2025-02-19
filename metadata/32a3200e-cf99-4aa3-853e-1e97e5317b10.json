@@ -1,0 +1,10 @@
+{
+  "example_id": "32a3200e-cf99-4aa3-853e-1e97e5317b10",
+  "text": "ما هو السبب الرئيسي للتراجع في إجمالي الناتج المحلي الأمريكي؟",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/32a3200e-cf99-4aa3-853e-1e97e5317b10.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/32a3200e-cf99-4aa3-853e-1e97e5317b10.pt",
+  "sequence_length": 18,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154143"
+}

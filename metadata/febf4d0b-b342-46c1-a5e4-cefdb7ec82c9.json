@@ -1,0 +1,10 @@
+{
+  "example_id": "febf4d0b-b342-46c1-a5e4-cefdb7ec82c9",
+  "text": "عقد مؤتمر سياحي دولي في سيوة لتعزيز التطوير المتوازن للمنطقة على خريطة السياحة العالمية.",
+  "domain": "السياحة",
+  "logits_path": "/tmp/logits_output/logits/febf4d0b-b342-46c1-a5e4-cefdb7ec82c9.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/febf4d0b-b342-46c1-a5e4-cefdb7ec82c9.pt",
+  "sequence_length": 31,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154154"
+}

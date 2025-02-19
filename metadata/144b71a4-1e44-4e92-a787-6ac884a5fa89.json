@@ -1,0 +1,10 @@
+{
+  "example_id": "144b71a4-1e44-4e92-a787-6ac884a5fa89",
+  "text": "هل كانت وتيرة رفع الأسعار في عام 2019 أعلى أم أقل من العام الماضي؟",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/144b71a4-1e44-4e92-a787-6ac884a5fa89.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/144b71a4-1e44-4e92-a787-6ac884a5fa89.pt",
+  "sequence_length": 22,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154149"
+}

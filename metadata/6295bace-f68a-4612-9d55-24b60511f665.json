@@ -1,0 +1,10 @@
+{
+  "example_id": "6295bace-f68a-4612-9d55-24b60511f665",
+  "text": "ديلويت (Deloitte)",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/6295bace-f68a-4612-9d55-24b60511f665.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/6295bace-f68a-4612-9d55-24b60511f665.pt",
+  "sequence_length": 9,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154142"
+}

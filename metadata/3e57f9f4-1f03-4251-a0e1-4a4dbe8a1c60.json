@@ -1,0 +1,10 @@
+{
+  "example_id": "3e57f9f4-1f03-4251-a0e1-4a4dbe8a1c60",
+  "text": "توقع ترمب انخفاضاً كبيراً في أسعار الأدوية، بحضور وزير الصحة أليكس أزار.",
+  "domain": "الصحة",
+  "logits_path": "/tmp/logits_output/logits/3e57f9f4-1f03-4251-a0e1-4a4dbe8a1c60.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/3e57f9f4-1f03-4251-a0e1-4a4dbe8a1c60.pt",
+  "sequence_length": 28,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250219-154151"
+}
