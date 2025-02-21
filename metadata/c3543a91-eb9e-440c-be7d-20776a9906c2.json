@@ -1,0 +1,10 @@
+{
+  "example_id": "c3543a91-eb9e-440c-be7d-20776a9906c2",
+  "text": "كآلة موسيقية، انطلق صوت الفنانة \"لورين جيلينكوڤيتش\" ليصاحب بتناغم وتمكنٍ عالٍ أداء الفرقة الموسيقية لمعزوفة \"Nightingale\".",
+  "domain": "الثقافة",
+  "logits_path": "/tmp/logits_output/logits/c3543a91-eb9e-440c-be7d-20776a9906c2.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/c3543a91-eb9e-440c-be7d-20776a9906c2.pt",
+  "sequence_length": 51,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181550"
+}

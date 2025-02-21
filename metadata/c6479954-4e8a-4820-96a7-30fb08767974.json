@@ -1,0 +1,10 @@
+{
+  "example_id": "c6479954-4e8a-4820-96a7-30fb08767974",
+  "text": "ديلويت: موسم الأعياد سينعكس على الإنفاق الأمريكي رغم كورونا",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/c6479954-4e8a-4820-96a7-30fb08767974.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/c6479954-4e8a-4820-96a7-30fb08767974.pt",
+  "sequence_length": 20,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181548"
+}

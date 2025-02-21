@@ -1,0 +1,10 @@
+{
+  "example_id": "a645fcad-3e31-4fb3-b58b-59d5317f1a51",
+  "text": "توقعت شركة ديلويت أن يدعم التسوق الإلكتروني نمو الإنفاق خلال موسم الأعياد القادم.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/a645fcad-3e31-4fb3-b58b-59d5317f1a51.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/a645fcad-3e31-4fb3-b58b-59d5317f1a51.pt",
+  "sequence_length": 27,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181548"
+}

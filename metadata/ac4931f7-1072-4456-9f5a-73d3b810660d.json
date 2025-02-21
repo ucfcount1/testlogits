@@ -1,0 +1,10 @@
+{
+  "example_id": "ac4931f7-1072-4456-9f5a-73d3b810660d",
+  "text": "ما هو دور مانافورت في حملة ترمب الانتخابية؟",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/ac4931f7-1072-4456-9f5a-73d3b810660d.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/ac4931f7-1072-4456-9f5a-73d3b810660d.pt",
+  "sequence_length": 16,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181545"
+}

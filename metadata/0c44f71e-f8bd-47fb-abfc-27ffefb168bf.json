@@ -1,0 +1,10 @@
+{
+  "example_id": "0c44f71e-f8bd-47fb-abfc-27ffefb168bf",
+  "text": "على الرغم من التقييم الإيجابي، أعربت الوكالة عن قلقها حيال أوضاع سوق العمل.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/0c44f71e-f8bd-47fb-abfc-27ffefb168bf.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/0c44f71e-f8bd-47fb-abfc-27ffefb168bf.pt",
+  "sequence_length": 30,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181542"
+}

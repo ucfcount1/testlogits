@@ -1,0 +1,10 @@
+{
+  "example_id": "0c16fc5e-6729-4659-89d5-19a70e9c1708",
+  "text": "بدا مانافورت بوضع بائس وهو يرتدي بدلة السجناء الخضراء.",
+  "domain": "السياسة",
+  "logits_path": "/tmp/logits_output/logits/0c16fc5e-6729-4659-89d5-19a70e9c1708.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/0c16fc5e-6729-4659-89d5-19a70e9c1708.pt",
+  "sequence_length": 24,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181546"
+}

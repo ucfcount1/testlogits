@@ -1,0 +1,10 @@
+{
+  "example_id": "12f8f1d9-8ef1-4b66-bb7a-f9bf50493b3d",
+  "text": "كادري سيمسون هو المفوض الأوروبي لشؤون الطاقة.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/12f8f1d9-8ef1-4b66-bb7a-f9bf50493b3d.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/12f8f1d9-8ef1-4b66-bb7a-f9bf50493b3d.pt",
+  "sequence_length": 16,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181543"
+}

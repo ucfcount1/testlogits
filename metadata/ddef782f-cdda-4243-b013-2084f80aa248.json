@@ -1,0 +1,10 @@
+{
+  "example_id": "ddef782f-cdda-4243-b013-2084f80aa248",
+  "text": "أوروبا تناقش قضية ارتفاع أسعار الطاقة المفوض الأوروبي لشؤون الطاقة كادري سيمسون اليوم إن الدول الأوروبية منشغلة بارتفاع أسعار الطاقة وتداعيات ذلك على الزبائن، كما أنها لديها أفكار بشأن التغلب على هذه المشكلة، ولكن سوف تتباحث في الأمر أولا.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/ddef782f-cdda-4243-b013-2084f80aa248.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/ddef782f-cdda-4243-b013-2084f80aa248.pt",
+  "sequence_length": 73,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181544"
+}

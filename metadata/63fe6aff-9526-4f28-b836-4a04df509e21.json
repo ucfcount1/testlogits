@@ -1,0 +1,10 @@
+{
+  "example_id": "63fe6aff-9526-4f28-b836-4a04df509e21",
+  "text": "وأضاف\" ولكن الوكالة أعربت عن مخاوفها بشأن سوق العمل\".",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/63fe6aff-9526-4f28-b836-4a04df509e21.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/63fe6aff-9526-4f28-b836-4a04df509e21.pt",
+  "sequence_length": 23,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181542"
+}

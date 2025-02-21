@@ -1,0 +1,10 @@
+{
+  "example_id": "8fee2752-5979-45d8-810c-298f8a733eff",
+  "text": "ياني",
+  "domain": "الثقافة",
+  "logits_path": "/tmp/logits_output/logits/8fee2752-5979-45d8-810c-298f8a733eff.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/8fee2752-5979-45d8-810c-298f8a733eff.pt",
+  "sequence_length": 3,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181549"
+}

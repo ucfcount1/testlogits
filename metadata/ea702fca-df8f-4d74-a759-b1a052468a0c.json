@@ -1,0 +1,10 @@
+{
+  "example_id": "ea702fca-df8f-4d74-a759-b1a052468a0c",
+  "text": "أقام الفنان العالمي ياني حفلاً موسيقياً في مهرجان شتاء طنطورة بالعلا، حيث قدم مجموعة من مقطوعاته وأهدى واحدة منها للشعب السعودي.",
+  "domain": "الثقافة",
+  "logits_path": "/tmp/logits_output/logits/ea702fca-df8f-4d74-a759-b1a052468a0c.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/ea702fca-df8f-4d74-a759-b1a052468a0c.pt",
+  "sequence_length": 44,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181549"
+}

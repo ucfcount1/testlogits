@@ -1,0 +1,10 @@
+{
+  "example_id": "06bdb6b7-883d-46d1-b7b1-68bdf965f345",
+  "text": "ما هو تأثير ارتفاع أسعار الغاز على المستهلكين؟",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/06bdb6b7-883d-46d1-b7b1-68bdf965f345.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/06bdb6b7-883d-46d1-b7b1-68bdf965f345.pt",
+  "sequence_length": 15,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181543"
+}

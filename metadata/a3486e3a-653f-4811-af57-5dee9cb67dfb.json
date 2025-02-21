@@ -1,0 +1,10 @@
+{
+  "example_id": "a3486e3a-653f-4811-af57-5dee9cb67dfb",
+  "text": "ما هو الحل المقترح لمشكلة ارتفاع أسعار الغاز؟",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/a3486e3a-653f-4811-af57-5dee9cb67dfb.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/a3486e3a-653f-4811-af57-5dee9cb67dfb.pt",
+  "sequence_length": 17,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181543"
+}

@@ -1,0 +1,10 @@
+{
+  "example_id": "929e85a9-26a6-4ebc-be84-57a073b36763",
+  "text": "من هو المفوض الأوروبي لشؤون الطاقة؟",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/929e85a9-26a6-4ebc-be84-57a073b36763.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/929e85a9-26a6-4ebc-be84-57a073b36763.pt",
+  "sequence_length": 11,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181543"
+}

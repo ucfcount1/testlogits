@@ -1,0 +1,10 @@
+{
+  "example_id": "79f87e32-082f-45e0-98bc-cffd22f2fda9",
+  "text": "أعربت الوكالة عن مخاوفها بشأن سوق العمل في كوريا الجنوبية.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/79f87e32-082f-45e0-98bc-cffd22f2fda9.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/79f87e32-082f-45e0-98bc-cffd22f2fda9.pt",
+  "sequence_length": 21,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181541"
+}

@@ -1,0 +1,10 @@
+{
+  "example_id": "63a06537-bba1-44be-b9f5-3993fec36417",
+  "text": "Nightingale",
+  "domain": "الثقافة",
+  "logits_path": "/tmp/logits_output/logits/63a06537-bba1-44be-b9f5-3993fec36417.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/63a06537-bba1-44be-b9f5-3993fec36417.pt",
+  "sequence_length": 3,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181549"
+}

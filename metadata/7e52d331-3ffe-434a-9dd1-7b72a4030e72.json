@@ -1,0 +1,10 @@
+{
+  "example_id": "7e52d331-3ffe-434a-9dd1-7b72a4030e72",
+  "text": "3.5%",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/7e52d331-3ffe-434a-9dd1-7b72a4030e72.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/7e52d331-3ffe-434a-9dd1-7b72a4030e72.pt",
+  "sequence_length": 5,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181547"
+}

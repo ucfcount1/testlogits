@@ -1,0 +1,10 @@
+{
+  "example_id": "46164ea7-925e-4bdf-9b9d-74ea36655d4b",
+  "text": "من هو الفنان الذي أحيا الحفل في شتاء طنطورة؟",
+  "domain": "الثقافة",
+  "logits_path": "/tmp/logits_output/logits/46164ea7-925e-4bdf-9b9d-74ea36655d4b.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/46164ea7-925e-4bdf-9b9d-74ea36655d4b.pt",
+  "sequence_length": 18,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181549"
+}

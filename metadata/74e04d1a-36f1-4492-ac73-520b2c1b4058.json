@@ -1,0 +1,10 @@
+{
+  "example_id": "74e04d1a-36f1-4492-ac73-520b2c1b4058",
+  "text": "ما هي النسبة المتوقعة لارتفاع مبيعات التجزئة في حال زيادة ثقة المستهلكين؟",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/74e04d1a-36f1-4492-ac73-520b2c1b4058.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/74e04d1a-36f1-4492-ac73-520b2c1b4058.pt",
+  "sequence_length": 27,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181547"
+}

@@ -1,0 +1,10 @@
+{
+  "example_id": "a6619b55-b1ab-45f9-b275-5eec746127e5",
+  "text": "One Man's Dream",
+  "domain": "الثقافة",
+  "logits_path": "/tmp/logits_output/logits/a6619b55-b1ab-45f9-b275-5eec746127e5.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/a6619b55-b1ab-45f9-b275-5eec746127e5.pt",
+  "sequence_length": 5,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181549"
+}

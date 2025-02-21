@@ -1,0 +1,10 @@
+{
+  "example_id": "47fe96d1-376d-44c5-94e4-76346bda3b85",
+  "text": "رأت الوكالة أن جميع الظروف المحيطة بالاقتصاد الكوري إيجابية، بما في ذلك التقدم في التعامل مع المخاطر الجيوسياسية المتعلقة بكوريا الشمالية.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/47fe96d1-376d-44c5-94e4-76346bda3b85.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/47fe96d1-376d-44c5-94e4-76346bda3b85.pt",
+  "sequence_length": 41,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181541"
+}

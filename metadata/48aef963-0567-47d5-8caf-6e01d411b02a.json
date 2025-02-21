@@ -1,0 +1,10 @@
+{
+  "example_id": "48aef963-0567-47d5-8caf-6e01d411b02a",
+  "text": "ونقلت وكالة يونهاب الكورية الجنوبية للأنباء عن الوزير القول عقب لقائه مع وفد الوكالة أن",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/48aef963-0567-47d5-8caf-6e01d411b02a.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/48aef963-0567-47d5-8caf-6e01d411b02a.pt",
+  "sequence_length": 30,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181542"
+}

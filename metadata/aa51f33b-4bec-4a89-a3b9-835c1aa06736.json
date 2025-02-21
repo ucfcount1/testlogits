@@ -1,0 +1,10 @@
+{
+  "example_id": "aa51f33b-4bec-4a89-a3b9-835c1aa06736",
+  "text": "رئيس الوفد هو كيم انج تان، المسؤول عن الوكالة في منطقة آسيا-المحيط الهادي.",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/aa51f33b-4bec-4a89-a3b9-835c1aa06736.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/aa51f33b-4bec-4a89-a3b9-835c1aa06736.pt",
+  "sequence_length": 28,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181541"
+}

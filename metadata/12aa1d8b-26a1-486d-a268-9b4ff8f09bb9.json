@@ -1,0 +1,10 @@
+{
+  "example_id": "12aa1d8b-26a1-486d-a268-9b4ff8f09bb9",
+  "text": "ما اسم المقطوعة التي عزفتها الفرقة الموسيقية مع صوت لورين جيلينكوف يتش؟",
+  "domain": "الثقافة",
+  "logits_path": "/tmp/logits_output/logits/12aa1d8b-26a1-486d-a268-9b4ff8f09bb9.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/12aa1d8b-26a1-486d-a268-9b4ff8f09bb9.pt",
+  "sequence_length": 27,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181549"
+}

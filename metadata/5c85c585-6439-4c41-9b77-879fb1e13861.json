@@ -1,0 +1,10 @@
+{
+  "example_id": "5c85c585-6439-4c41-9b77-879fb1e13861",
+  "text": "ما هي الشركة التي توقعت ارتفاع مبيعات التجزئة خلال موسم الأعياد على الرغم من أزمة كورونا؟",
+  "domain": "الاقتصاد",
+  "logits_path": "/tmp/logits_output/logits/5c85c585-6439-4c41-9b77-879fb1e13861.pt",
+  "input_ids_path": "/tmp/logits_output/input_ids/5c85c585-6439-4c41-9b77-879fb1e13861.pt",
+  "sequence_length": 27,
+  "model_name": "CohereForAI/aya-expanse-8b",
+  "timestamp": "20250221-181546"
+}
